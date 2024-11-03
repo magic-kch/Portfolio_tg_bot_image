@@ -1,0 +1,4 @@
+TOKEN=6673692681:Токен_Вашего_Телеграм_Бота
+TG_GROUP=-100ххххххххх_ID_группы
+IMAGES_FOLDER=./images/
+FILE_WITH_CAPTIONS=captions.txt
